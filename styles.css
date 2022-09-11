@@ -5,6 +5,8 @@ h1{
     opacity: 0;
     position: absolute;
     bottom: -10%;
+    margin: 0;
+    padding: 0;
 }
 .cards{
     display: flex;
