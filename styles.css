@@ -1,7 +1,11 @@
 body{
     margin: 0;
 }
-
+h1{
+    opacity: 0;
+    position: absolute;
+    bottom: -10%;
+}
 .cards{
     display: flex;
     color: white;
